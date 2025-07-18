@@ -58,7 +58,7 @@ export default function Header() {
               </button>
 
               <Link to="/app">
-                <button className="bg-gradient-to-br from-primary-1 to-primary-2 text-white h-10 px-4 rounded-lg">
+                <button className="bg-gradient-to-br text-sm md:text-base from-primary-1 to-primary-2 text-white h-10 px-4 rounded-lg">
                   Use Cito
                 </button>
               </Link>

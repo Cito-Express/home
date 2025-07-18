@@ -17,7 +17,7 @@ export default function Type() {
             <p className="text-muted border border-line text-sm inline-flex px-3 p-1 rounded-full bg-secondary">
               Select an Account Type 🚀
             </p>
-            <h1 className="md:text-3xl text-2xl font-semibold leading-tight">
+            <h1 className="md:text-3xl text-2xl font-space font-semibold leading-tight">
               What type of account would you love to create with us?
             </h1>
           </div>
