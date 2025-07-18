@@ -64,7 +64,7 @@ body {
 
 button,
 .btn {
-  @apply cursor-pointer font-medium font-space flex items-center justify-center gap-2 disabled:opacity-50;
+  @apply cursor-pointer flex items-center justify-center gap-2 disabled:opacity-50;
 }
 
 .btn-primary {

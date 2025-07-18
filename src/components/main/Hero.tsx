@@ -11,7 +11,7 @@ export default function Hero() {
             🚀 <p>All in one logistics platform</p>
           </div>
           <div data-aos="fade-up" className="space-y-2">
-            <h1 className="text-3xl md:text-5xl md:leading-tight leading-[45px] font-bold font-space">
+            <h1 className="text-4xl md:text-6xl md:leading-tight leading-[45px] font-extrabold font-space">
               Delivering the Future of Logistics in Nigeria
             </h1>
             <p className="text-muted">
